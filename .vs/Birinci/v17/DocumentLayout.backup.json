@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\Birinci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41196446-5EA6-4751-96C5-A03024E4F674}|Birinci\\Birinci.csproj|c:\\users\\laptop d\u00FCnyasi\\source\\repos\\birinci\\birinci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41196446-5EA6-4751-96C5-A03024E4F674}|Birinci\\Birinci.csproj|solutionrelative:birinci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41196446-5EA6-4751-96C5-A03024E4F674}|Birinci\\Birinci.csproj|C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\Birinci\\birinci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41196446-5EA6-4751-96C5-A03024E4F674}|Birinci\\Birinci.csproj|solutionrelative:birinci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\Birinci\\Birinci\\Form1.cs",
+              "RelativeDocumentMoniker": "Birinci\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\Birinci\\Birinci\\Form1.cs",
+              "RelativeToolTip": "Birinci\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:38:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\Birinci\\Birinci\\Form1.cs",
+              "RelativeDocumentMoniker": "Birinci\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\Birinci\\Birinci\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Birinci\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:28:22.754Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

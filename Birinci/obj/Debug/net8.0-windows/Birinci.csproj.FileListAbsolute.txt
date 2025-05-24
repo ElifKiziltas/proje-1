@@ -1,0 +1,16 @@
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\bin\Debug\net8.0-windows\Birinci.exe
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\bin\Debug\net8.0-windows\Birinci.deps.json
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\bin\Debug\net8.0-windows\Birinci.runtimeconfig.json
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\bin\Debug\net8.0-windows\Birinci.dll
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\bin\Debug\net8.0-windows\Birinci.pdb
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.Form1.resources
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.csproj.GenerateResource.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.AssemblyInfoInputs.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.AssemblyInfo.cs
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.dll
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\refint\Birinci.dll
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.pdb
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\Birinci.genruntimeconfig.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\Birinci\Birinci\obj\Debug\net8.0-windows\ref\Birinci.dll
